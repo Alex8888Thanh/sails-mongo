@@ -46,6 +46,6 @@ module.exports.datastores = {
      *                                                                          *
      ***************************************************************************/
     adapter: "sails-mongo",
-    url: "postgresql://postgresql_azura_user:mGQ8D9RR3AFX3fex41i5Qe2MSUfk6Jrh@dpg-cqpr2g3qf0us73aodsm0-a.oregon-postgres.render.com/postgresql_azura",
+    url: "mongodb://mongo:LayvRqtsexDzQmlUkiNeajjHJejncTxv@mongodb.railway.internal:27017",
   },
 };
